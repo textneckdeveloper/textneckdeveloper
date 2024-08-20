@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffb81f&height=100&section=header&text=Jeon%20Hyeon%20Min&fontSize=35)
 
 <div align="center">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=textneckdeveloper&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="SOKURI's github stats" />
+  <a href="https://github.com/textneckdeveloper"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=textneckdeveloper&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="SOKURI's github stats" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=textneckdeveloper&layout=compact&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/textneckdeveloper"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=textneckdeveloper&layout=compact&theme=gruvbox&hide_border=true" /></a>
 </div>
 
 ##
