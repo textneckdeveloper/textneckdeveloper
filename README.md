@@ -10,6 +10,7 @@
 
 <div align="center">
   <a href="https://solved.ac/textneckdeveloper/"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=textneckdeveloper" alt="Solved.ac Profile"/></a>
+  <a href="https://solved.ac/textneckdeveloper/"><img align="right" src="http://mazandi.herokuapp.com/api?handle=textneckdeveloper&theme=dark" alt="mazandi profile""/></a>
 </div>
 
 <div align="center">
@@ -38,7 +39,5 @@
 ###
 
 <div align="center">
-  <a href="https://solved.ac/textneckdeveloper/"><img align="right" src="http://mazandi.herokuapp.com/api?handle=textneckdeveloper&theme=dark" alt="mazandi profile""/></a>
-  <br><br><br>
   <a href="https://shard-atlasaurus-1a2.notion.site/Study-4cb0d524af014abd8ffa3a90198bf223?pvs=4"><img src="https://img.shields.io/badge/study-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
