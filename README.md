@@ -9,8 +9,9 @@
 ##
 
 <div align="center">
-  <a href="https://solved.ac/textneckdeveloper/"><img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=textneckdeveloper" alt="Solved.ac Profile"/></a>
-  <a href="https://solved.ac/textneckdeveloper/"><img align="right" src="http://mazandi.herokuapp.com/api?handle=textneckdeveloper&theme=dark" alt="mazandi profile""/></a>
+  <a href="https://solved.ac/textneckdeveloper/"><img align="center" style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=textneckdeveloper" alt="Solved.ac Profile"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://solved.ac/textneckdeveloper/"><img align="center" style="height:180px" src="http://mazandi.herokuapp.com/api?handle=textneckdeveloper&theme=dark" alt="mazandi profile""/></a>
 </div>
 
 <div align="center">
